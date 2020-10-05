@@ -1,3 +1,7 @@
+## Learn Source
+
+[How to Make an AMAZON Clone with REACT JS for Beginners (in 4 hours)](https://www.youtube.com/watch?v=1_IYL9ZMR_Y)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
