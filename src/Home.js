@@ -38,14 +38,31 @@ function Home() {
                     id={12321341}
                     title="The Lean Start up : How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
                     price={13.31}
-                    rating={5}
+                    rating={3}
                     image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
                 ></Product>
                 <Product
                     id={12321341}
                     title="The Lean Start up : How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
                     price={13.31}
-                    rating={5}
+                    rating={3}
+                    image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
+                ></Product>
+            </div>
+
+            <div className="home__row">
+                <Product
+                    id={12321341}
+                    title="The Lean Start up : How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+                    price={13.31}
+                    rating={2}
+                    image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
+                ></Product>
+                <Product
+                    id={12321341}
+                    title="The Lean Start up : How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+                    price={13.31}
+                    rating={2}
                     image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
                 ></Product>
             </div>
