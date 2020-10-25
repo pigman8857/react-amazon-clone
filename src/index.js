@@ -5,9 +5,6 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { StateProvider } from './StateProvider';
 import reducer, { initialState } from './reducer';
-console.log('reducer', reducer);
-console.log('initialState', initialState);
-console.log('StateProvider', StateProvider);
 ReactDOM.render(
   <React.StrictMode>
     <StateProvider initialState={initialState} reducer={reducer}>
