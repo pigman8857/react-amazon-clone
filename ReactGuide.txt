@@ -1,0 +1,10 @@
+ What is React Hooks?
+React Hooks is a special function that allows us to do few things like using states or life-cycle methods etc. inside the functional components that we use inside the class components. We usually achieve this by using the following three functions,
+UseState() -> to use state within the functional components.
+UseEffect() -> to run the code, when a component renders or re-renders.
+UseContext() -> allows us to use contexts in a functional component
+
+iii. What is Reducer?
+If you are familiar with Redux, then you must have heard about Reducer. Reducer takes two parameters, 
+which are action and state. It actually acts as a manipulator that manipulates the state whenever an action is dispatched, 
+depending on which type of action is being dispatched such as storing a data by adding the input fields value to state on clicking the Submit button.
